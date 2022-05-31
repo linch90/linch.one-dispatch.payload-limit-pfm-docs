@@ -38,7 +38,28 @@
         },
         {
           "text": "SCAP配置",
-          "path": "ScapAirbus/ScapConfigs/Index.md"
+          "items": [
+            {
+              "text": "POPT配置",
+              "path": "ScapAirbus/ScapConfigs/Popt.md"
+            },
+            {
+              "text": "CONF配置",
+              "path": "ScapAirbus/ScapConfigs/Conf.md"
+            },
+            {
+              "text": "POPTL配置",
+              "path": "ScapAirbus/ScapConfigs/Poptl.md"
+            },
+            {
+              "text": "CONFL配置",
+              "path": "ScapAirbus/ScapConfigs/Confl.md"
+            },
+            {
+              "text": "飞机SCAP配置",
+              "path": "ScapAirbus/ScapConfigs/AdvancedAircraftScapItems.md"
+            }
+          ]
         },
         {
           "text": "PEP机场库管理",
