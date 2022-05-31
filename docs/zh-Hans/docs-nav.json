@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "text": "系统概述",
+      "path": "Index.md"
+    },
+    {
+      "text": "系统安全",
+      "items": [
+        {
+          "text": "概述",
+          "path": "Security/Index.md"
+        },
+        {
+          "text": "身份验证",
+          "path": "Security/Authentication.md"
+        },
+        {
+          "text": "授权",
+          "path": "Security/Authorization.md"
+        },
+        {
+          "text": "XSRF/CSRF 防护",
+          "path": "Security/Anti-Request-Forgery.md"
+        },
+        {
+          "text": "防跨站点脚本(XSS)攻击",
+          "path": "Security/Anti-Xss.md"
+        }
+      ]
+    },
+    {
+      "text": "空客(SCAP)",
+      "path": "ScapAirbus/Index.md"
+    }
+  ]
+}
