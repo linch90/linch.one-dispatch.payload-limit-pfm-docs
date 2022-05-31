@@ -31,7 +31,20 @@
     },
     {
       "text": "空客(SCAP)",
-      "path": "ScapAirbus/Index.md"
+      "items": [
+        {
+          "text": "机场管理",
+          "path": "ScapAirbus/AirportManagement/Index.md"
+        },
+        {
+          "text": "SCAP配置",
+          "path": "ScapAirbus/ScapConfigs/Index.md"
+        },
+        {
+          "text": "PEP机场库管理",
+          "path": "ScapAirbus/PepManager/Index.md"
+        }
+      ]
     }
   ]
 }
