@@ -66,6 +66,40 @@
           "path": "ScapAirbus/PepManager/Index.md"
         }
       ]
+    },
+    {
+      "text": "庞巴迪(SCAP)",
+      "items": [
+        {
+          "text": "机场管理",
+          "path": "ScapBombardier/AirportManagement/Index.md"
+        },
+        {
+          "text": "SCAP配置",
+          "items": [
+            {
+              "text": "POPT配置",
+              "path": "ScapBombardier/ScapConfigs/Popt.md"
+            },
+            {
+              "text": "CONF配置",
+              "path": "ScapBombardier/ScapConfigs/Conf.md"
+            },
+            {
+              "text": "POPTL配置",
+              "path": "ScapBombardier/ScapConfigs/Poptl.md"
+            },
+            {
+              "text": "CONFL配置",
+              "path": "ScapBombardier/ScapConfigs/Confl.md"
+            },
+            {
+              "text": "飞机SCAP配置",
+              "path": "ScapBombardier/ScapConfigs/AdvancedAircraftScapItems.md"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

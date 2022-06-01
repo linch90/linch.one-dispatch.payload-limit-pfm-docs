@@ -2,9 +2,9 @@
 
 配置空客机型指定机场的跑道可用阶段
 
-![](./image/RunwayAvailableLimits/1653982007850.png)
+![](image/RunwayAvailableLimits/1654051972119.png)
 
-![](image/RunwayAvailableLimits/1654051998238.png)
+![](./image/RunwayAvailableLimits/1653981785399.png)
 
 ## 跑道可用阶段
 

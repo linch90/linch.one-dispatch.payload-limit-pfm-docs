@@ -2,12 +2,10 @@
 
 用于维护**飞机级别**相关的 SCAP 配置，配置后，可覆盖默认机型 SCAP 配置。
 
-![](image/AdvancedAircraftScapItems/1653984547867.png)
+![](image/AdvancedAircraftScapItems/1654052759141.png)
 
 表示 B1234 飞机因 MEL 项自动刹车不可用，配置 CONF 13. 自动刹车项关，在进行起飞性能计算时，B1234 将采取 CONF[13]=关的配置进行计算。
 
 ## SCAP 冲突项
-
-![](image/AdvancedAircraftScapItems/1654050417315.png)
 
 在用户维护飞机 SCAP 配置项时，在生效时间段内，可能已经存在相同飞机、相同 SCAP 项目，防止用户重复维护。
